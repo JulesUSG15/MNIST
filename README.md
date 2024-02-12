@@ -22,8 +22,9 @@ The project is organised with the following Jupyter notebooks:
 
 To run these notebooks, make sure you have installed Jupyter as well as Python and the necessary packages. You can install the dependencies by running :
 
-``bash
+```bash
 pip install tensorflow keras numpy matplotlib jupyter
+
 ```
 
 ## Usage
